@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+body .svg, body .text {
+  max-width: 320px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+body .text {
+  margin-top: 5em;
+}
+body .slider {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+body .sliderPomodoro, body .sliderBreak {
+  max-width: 360px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1em;
+  top: 10px;
+}
+body .sliderBreak {
+  top: 40px;
+}
+body .slider-tray {
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  border-radius: 2px;
+}
+body .slider-handle {
+  position: absolute;
+  top: 1px;
+}
+body .slider-handle-icon {
+  width: 14px;
+  height: 14px;
+  border: solid 1px black;
+  position: absolute;
+  border-radius: 10px;
+  top: -7px;
+  left: -7px;
+}
