@@ -240,3 +240,27 @@ a {
 .loader span:nth-child(22) {
   -webkit-animation-delay: 2.1s;
 }
+.loader span:nth-child(23) {
+  -webkit-animation-delay: 2.2s;
+}
+.loader span:nth-child(24) {
+  -webkit-animation-delay: 2.3s;
+}
+.loader span:nth-child(25) {
+  -webkit-animation-delay: 2.4s;
+}
+.loader span:nth-child(26) {
+  -webkit-animation-delay: 2.5s;
+}
+.loader span:nth-child(27) {
+  -webkit-animation-delay: 2.6s;
+}
+.loader span:nth-child(28) {
+  -webkit-animation-delay: 2.7s;
+}
+.loader span:nth-child(29) {
+  -webkit-animation-delay: 2.8s;
+}
+.loader span:nth-child(30) {
+  -webkit-animation-delay: 2.9s;
+}

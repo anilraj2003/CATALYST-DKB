@@ -1,10 +1,3 @@
-/* Credit and Thanks:
-Matrix - Particles.js;
-SliderJS - Ettrics;
-Design - Sara Mazal Web;
-Fonts - Google Fonts
-*/
-
 window.onload = function () {
   Particles.init({
     selector: ".background"
@@ -20,7 +13,7 @@ const particles = Particles.init({
       options: {
         color: ["#faebd7", "#03dac6", "#ff0266"],
         maxParticles: 43,
-        connectParticles: false
+        connectParticles: true,
       }
     }
   ]
