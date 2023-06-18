@@ -54,7 +54,7 @@ $(document).ready(function() {
     $(document).click(function(event) {
       var target = $(event.target);
       if (!target.is('#myInput')) {
-        $('#myInput').attr('placeholder', '🔎    Search');
+        $('#myInput').attr('placeholder', 'Search');
       }
     });
   });
